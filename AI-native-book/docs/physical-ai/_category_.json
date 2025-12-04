@@ -1,0 +1,9 @@
+{
+  "label": "Physical AI & Humanoid Robotics",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Learn to build autonomous humanoid robots with Physical AI, ROS 2, and Vision-Language-Action systems."
+  }
+}
+
